@@ -20,7 +20,7 @@ import {
   RouteUser,
 } from "./helpers/RouteName";
 import Index from "./pages/Index";
-import SignIn from "./pages/Signin";
+import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import Profile from "./pages/Profile";
 import AddCategory from "./pages/Category/AddCategory";
